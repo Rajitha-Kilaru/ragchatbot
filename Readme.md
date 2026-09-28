@@ -13,3 +13,6 @@ run:  streamlit run ragchatbot.py
 
 
 OpenAIAPIKey:  https://platform.openai.com/home
+
+to run pacakages in requirements.txt use this command
+python -m pip install -r requirements.txt
